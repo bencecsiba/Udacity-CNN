@@ -7,4 +7,4 @@ The code templates were provided by Udacity and in addition, the helpers.py file
 
 When training from scratch, I build a residual block architecture. When utilising transfer learning, I utilised the ResNet18 network. 
 
-Many thanks to AWS for the shcolarship and Fady Morris Ebeid for the personal support. 
+Many thanks to AWS for the scholarship and Fady Morris Ebeid for the personal support. 
